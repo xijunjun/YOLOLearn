@@ -1,0 +1,5 @@
+2_Demonstration_Demonstration_Or_Protest_2_924
+3
+658 143 182 189 0.846
+148 280 8 10 0.021
+620 281 10 15 0.014

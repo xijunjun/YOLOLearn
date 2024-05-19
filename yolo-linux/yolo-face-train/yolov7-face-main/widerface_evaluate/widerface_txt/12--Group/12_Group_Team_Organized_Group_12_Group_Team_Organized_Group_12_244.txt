@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_244
+3
+395 50 137 170 0.871
+142 105 137 143 0.789
+616 102 130 208 0.758

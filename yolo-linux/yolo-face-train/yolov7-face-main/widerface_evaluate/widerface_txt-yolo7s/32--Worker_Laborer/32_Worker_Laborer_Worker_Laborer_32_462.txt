@@ -1,0 +1,4 @@
+32_Worker_Laborer_Worker_Laborer_32_462
+2
+452 205 70 76 0.769
+187 76 51 55 0.062

@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_162
+4
+368 200 139 186 0.873
+998 320 26 102 0.491
+584 386 73 116 0.404
+1005 343 19 113 0.014

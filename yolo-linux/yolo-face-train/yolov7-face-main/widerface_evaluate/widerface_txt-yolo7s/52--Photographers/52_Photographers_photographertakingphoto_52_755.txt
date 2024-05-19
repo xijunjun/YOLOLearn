@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_755
+2
+465 233 114 110 0.814
+560 274 75 76 0.017

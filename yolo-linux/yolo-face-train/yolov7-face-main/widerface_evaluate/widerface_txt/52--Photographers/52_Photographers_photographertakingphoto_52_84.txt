@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_84
+2
+298 144 180 237 0.521
+591 70 54 76 0.077

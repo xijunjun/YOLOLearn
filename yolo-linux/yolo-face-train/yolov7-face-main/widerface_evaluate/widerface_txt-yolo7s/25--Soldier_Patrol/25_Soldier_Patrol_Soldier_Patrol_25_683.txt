@@ -1,0 +1,3 @@
+25_Soldier_Patrol_Soldier_Patrol_25_683
+1
+682 406 215 209 0.861

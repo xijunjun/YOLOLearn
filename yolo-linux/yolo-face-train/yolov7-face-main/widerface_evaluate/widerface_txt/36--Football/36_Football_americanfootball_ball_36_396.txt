@@ -1,0 +1,4 @@
+36_Football_americanfootball_ball_36_396
+2
+252 213 129 164 0.791
+743 50 61 62 0.014

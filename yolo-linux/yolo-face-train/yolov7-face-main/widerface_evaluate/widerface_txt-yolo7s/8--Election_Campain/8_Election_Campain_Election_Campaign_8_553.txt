@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_553
+2
+436 110 113 148 0.879
+834 63 190 620 0.051

@@ -1,0 +1,4 @@
+24_Soldier_Firing_Soldier_Firing_24_67
+2
+486 207 68 89 0.811
+540 113 29 35 0.012

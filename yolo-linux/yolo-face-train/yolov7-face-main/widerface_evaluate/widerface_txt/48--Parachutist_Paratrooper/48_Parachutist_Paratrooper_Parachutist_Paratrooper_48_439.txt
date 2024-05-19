@@ -1,0 +1,5 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_439
+3
+627 138 136 196 0.878
+149 52 49 60 0.809
+481 48 44 54 0.018

@@ -1,0 +1,6 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_164
+4
+98 218 758 836 0.389
+414 1324 43 47 0.027
+402 1331 50 51 0.017
+1006 431 18 51 0.010

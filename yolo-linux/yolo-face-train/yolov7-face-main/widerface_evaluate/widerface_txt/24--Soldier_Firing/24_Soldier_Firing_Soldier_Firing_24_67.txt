@@ -1,0 +1,4 @@
+24_Soldier_Firing_Soldier_Firing_24_67
+2
+487 210 61 88 0.783
+543 115 23 32 0.187

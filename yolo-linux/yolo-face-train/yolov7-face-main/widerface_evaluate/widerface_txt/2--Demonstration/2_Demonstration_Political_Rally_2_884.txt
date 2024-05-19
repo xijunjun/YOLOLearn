@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_884
+2
+133 225 162 202 0.844
+221 163 37 51 0.096

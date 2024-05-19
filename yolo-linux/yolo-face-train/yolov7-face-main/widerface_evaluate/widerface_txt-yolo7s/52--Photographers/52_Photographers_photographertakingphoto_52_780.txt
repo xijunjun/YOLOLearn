@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_780
+2
+750 267 76 118 0.761
+369 285 45 60 0.012

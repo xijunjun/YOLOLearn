@@ -1,0 +1,4 @@
+24_Soldier_Firing_Soldier_Firing_24_812
+2
+758 80 58 83 0.582
+384 178 39 36 0.031

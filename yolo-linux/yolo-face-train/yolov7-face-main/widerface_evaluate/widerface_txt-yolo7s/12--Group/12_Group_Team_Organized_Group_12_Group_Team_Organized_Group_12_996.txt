@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_996
+3
+357 340 307 467 0.914
+607 665 306 425 0.875
+58 557 59 74 0.015

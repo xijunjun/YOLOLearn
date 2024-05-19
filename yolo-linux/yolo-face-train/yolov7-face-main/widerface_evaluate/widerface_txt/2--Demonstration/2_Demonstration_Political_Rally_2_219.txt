@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_219
+2
+325 183 371 542 0.887
+121 113 16 18 0.013

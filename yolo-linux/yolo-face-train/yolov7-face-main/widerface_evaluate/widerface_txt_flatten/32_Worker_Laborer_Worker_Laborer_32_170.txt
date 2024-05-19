@@ -1,0 +1,3 @@
+32_Worker_Laborer_Worker_Laborer_32_170
+1
+501 597 103 91 0.818

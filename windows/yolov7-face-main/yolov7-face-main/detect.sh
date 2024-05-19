@@ -1,0 +1,1 @@
+python detect.py --weights  .\weights\yolov7s-face.pt

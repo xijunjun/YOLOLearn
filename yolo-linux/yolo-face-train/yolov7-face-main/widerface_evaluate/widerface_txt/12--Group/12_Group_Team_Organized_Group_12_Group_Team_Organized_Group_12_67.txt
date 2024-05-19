@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_67
+3
+298 19 163 194 0.845
+634 214 119 185 0.782
+695 0 190 51 0.112

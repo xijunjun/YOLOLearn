@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_776
+2
+345 245 516 574 0.763
+505 336 343 398 0.027

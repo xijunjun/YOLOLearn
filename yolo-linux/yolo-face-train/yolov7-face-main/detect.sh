@@ -1,0 +1,1 @@
+python detect_onnx.py --weights /disks/disk1/Workspace/TrainProjs/yolov7-face-main/runs/train/exp6/weights/best.pt

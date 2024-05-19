@@ -1,0 +1,4 @@
+32_Worker_Laborer_Worker_Laborer_32_400
+2
+698 177 47 56 0.781
+10 147 25 33 0.011

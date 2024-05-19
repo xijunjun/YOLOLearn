@@ -1,0 +1,4 @@
+59_peopledrivingcar_peopledrivingcar_59_95
+2
+582 149 141 203 0.856
+153 365 72 107 0.215

@@ -1,0 +1,11 @@
+10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_716
+9
+326 350 54 63 0.844
+769 265 74 93 0.841
+508 293 62 75 0.830
+2 438 35 41 0.815
+197 408 45 50 0.808
+76 438 37 46 0.785
+121 417 41 44 0.784
+931 454 31 37 0.617
+653 524 19 23 0.559

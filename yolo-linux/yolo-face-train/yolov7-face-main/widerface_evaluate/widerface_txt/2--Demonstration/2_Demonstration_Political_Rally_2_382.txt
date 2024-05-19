@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_382
+2
+388 488 138 172 0.850
+857 1119 87 60 0.050

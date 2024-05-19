@@ -1,0 +1,4 @@
+25_Soldier_Patrol_Soldier_Patrol_25_640
+2
+434 0 244 341 0.896
+0 341 59 396 0.030

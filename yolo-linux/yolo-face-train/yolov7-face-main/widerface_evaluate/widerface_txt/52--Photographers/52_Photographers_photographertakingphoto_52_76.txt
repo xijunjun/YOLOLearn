@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_76
+3
+634 121 87 86 0.639
+0 307 14 41 0.016
+69 300 38 40 0.010

@@ -1,0 +1,3 @@
+32_Worker_Laborer_Worker_Laborer_32_68
+1
+380 301 382 432 0.838

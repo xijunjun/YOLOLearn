@@ -1,0 +1,5 @@
+29_Students_Schoolkids_Students_Schoolkids_29_380
+3
+403 187 142 174 0.867
+803 44 68 97 0.070
+904 61 65 83 0.031

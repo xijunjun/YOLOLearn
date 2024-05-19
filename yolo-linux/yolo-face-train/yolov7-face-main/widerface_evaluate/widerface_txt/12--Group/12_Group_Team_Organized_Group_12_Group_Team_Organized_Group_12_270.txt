@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_270
+4
+447 14 61 79 0.825
+311 149 33 41 0.325
+180 227 25 27 0.024
+965 118 23 29 0.016

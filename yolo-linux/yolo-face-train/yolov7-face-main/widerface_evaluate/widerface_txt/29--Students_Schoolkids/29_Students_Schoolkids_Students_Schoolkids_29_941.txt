@@ -1,0 +1,5 @@
+29_Students_Schoolkids_Students_Schoolkids_29_941
+3
+573 186 124 153 0.823
+291 223 106 107 0.750
+0 522 14 46 0.021

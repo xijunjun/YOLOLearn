@@ -1,0 +1,5 @@
+2_Demonstration_Demonstration_Or_Protest_2_942
+3
+205 109 404 648 0.898
+161 191 19 22 0.025
+126 320 17 22 0.018

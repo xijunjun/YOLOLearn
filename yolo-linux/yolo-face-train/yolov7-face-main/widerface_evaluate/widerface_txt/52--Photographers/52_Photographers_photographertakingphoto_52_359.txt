@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_359
+3
+560 71 54 77 0.767
+628 153 120 125 0.021
+407 442 13 15 0.019

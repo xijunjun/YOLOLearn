@@ -1,0 +1,4 @@
+25_Soldier_Patrol_Soldier_Patrol_25_467
+2
+768 55 36 56 0.666
+754 56 34 50 0.011

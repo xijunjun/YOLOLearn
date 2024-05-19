@@ -1,0 +1,5 @@
+2_Demonstration_Demonstration_Or_Protest_2_364
+3
+471 289 128 175 0.876
+218 319 127 198 0.849
+676 338 114 196 0.846

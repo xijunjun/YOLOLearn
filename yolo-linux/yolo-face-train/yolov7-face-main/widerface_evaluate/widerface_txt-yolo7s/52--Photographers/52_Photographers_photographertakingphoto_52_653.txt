@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_653
+2
+501 150 238 302 0.439
+560 302 203 154 0.052

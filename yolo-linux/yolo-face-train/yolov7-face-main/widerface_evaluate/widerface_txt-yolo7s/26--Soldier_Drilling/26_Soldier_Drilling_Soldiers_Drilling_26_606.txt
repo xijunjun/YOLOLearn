@@ -1,0 +1,4 @@
+26_Soldier_Drilling_Soldiers_Drilling_26_606
+2
+222 68 122 174 0.889
+641 108 127 179 0.879

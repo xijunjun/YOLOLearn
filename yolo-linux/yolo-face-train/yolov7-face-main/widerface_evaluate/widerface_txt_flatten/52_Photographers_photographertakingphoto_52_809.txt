@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_809
+3
+27 127 333 460 0.879
+385 187 298 320 0.854
+658 315 306 349 0.834

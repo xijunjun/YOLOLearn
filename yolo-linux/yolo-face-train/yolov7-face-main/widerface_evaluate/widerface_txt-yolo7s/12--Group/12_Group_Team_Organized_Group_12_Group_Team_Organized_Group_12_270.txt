@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_270
+3
+448 13 61 78 0.835
+23 243 18 24 0.017
+308 140 40 53 0.012

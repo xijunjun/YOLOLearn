@@ -1,0 +1,4 @@
+59_peopledrivingcar_peopledrivingcar_59_856
+2
+184 252 22 24 0.718
+557 246 17 20 0.572

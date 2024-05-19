@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_244
+3
+396 52 136 168 0.868
+145 95 135 153 0.822
+615 102 134 209 0.803

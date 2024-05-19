@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_310
+3
+624 168 84 121 0.685
+655 185 71 99 0.078
+616 193 60 94 0.015

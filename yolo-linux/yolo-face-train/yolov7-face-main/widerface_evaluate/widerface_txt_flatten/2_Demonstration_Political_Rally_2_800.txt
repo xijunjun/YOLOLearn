@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_800
+2
+353 189 159 220 0.876
+950 209 74 183 0.136

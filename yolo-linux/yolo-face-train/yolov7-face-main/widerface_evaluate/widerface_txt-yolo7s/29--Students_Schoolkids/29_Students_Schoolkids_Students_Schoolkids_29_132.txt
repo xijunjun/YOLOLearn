@@ -1,0 +1,5 @@
+29_Students_Schoolkids_Students_Schoolkids_29_132
+3
+12 4 198 208 0.892
+722 146 166 204 0.875
+474 79 158 190 0.874

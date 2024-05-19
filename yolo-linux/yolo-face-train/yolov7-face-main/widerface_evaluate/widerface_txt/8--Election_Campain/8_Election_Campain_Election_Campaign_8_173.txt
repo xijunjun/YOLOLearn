@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_173
+2
+235 38 196 289 0.855
+726 146 187 247 0.812

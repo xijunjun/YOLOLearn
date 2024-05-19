@@ -1,0 +1,4 @@
+2_Demonstration_Demonstration_Or_Protest_2_282
+2
+13 264 156 210 0.888
+310 220 181 212 0.785

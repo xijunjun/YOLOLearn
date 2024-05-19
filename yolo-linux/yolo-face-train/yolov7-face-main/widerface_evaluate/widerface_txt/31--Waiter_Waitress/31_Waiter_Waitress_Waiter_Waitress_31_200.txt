@@ -1,0 +1,4 @@
+31_Waiter_Waitress_Waiter_Waitress_31_200
+2
+160 60 119 161 0.882
+680 52 117 159 0.872

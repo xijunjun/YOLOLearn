@@ -1,0 +1,6 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_785
+4
+236 9 101 155 0.799
+759 70 29 41 0.052
+655 50 43 57 0.011
+754 58 28 45 0.011

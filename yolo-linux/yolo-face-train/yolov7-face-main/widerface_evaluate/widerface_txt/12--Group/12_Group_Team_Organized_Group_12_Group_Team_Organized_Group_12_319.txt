@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_319
+4
+436 172 135 172 0.808
+757 29 48 69 0.192
+995 6 27 42 0.027
+183 112 127 180 0.020

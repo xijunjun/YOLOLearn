@@ -1,0 +1,5 @@
+59_peopledrivingcar_peopledrivingcar_59_856
+3
+186 253 20 23 0.722
+555 245 16 19 0.592
+796 328 6 7 0.013

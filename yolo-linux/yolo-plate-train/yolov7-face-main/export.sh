@@ -1,0 +1,1 @@
+python  models/export.py  --weights  /disks/disk1/Workspace/TrainProjs/yolo-plate/yolov7-face-main/runs/train/exp20/weights/last.pt

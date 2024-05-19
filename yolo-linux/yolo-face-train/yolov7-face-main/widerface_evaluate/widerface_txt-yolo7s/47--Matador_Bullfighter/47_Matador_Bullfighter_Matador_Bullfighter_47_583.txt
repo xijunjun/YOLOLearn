@@ -1,0 +1,4 @@
+47_Matador_Bullfighter_Matador_Bullfighter_47_583
+2
+376 145 260 338 0.886
+800 827 19 23 0.048

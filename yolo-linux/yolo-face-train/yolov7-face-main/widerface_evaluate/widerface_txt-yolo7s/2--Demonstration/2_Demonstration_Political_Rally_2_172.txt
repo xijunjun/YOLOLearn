@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_172
+2
+413 294 334 475 0.843
+33 2 331 236 0.037

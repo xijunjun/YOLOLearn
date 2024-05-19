@@ -1,0 +1,41 @@
+# PASCAL VOC dataset http://host.robots.ox.ac.uk/pascal/VOC/
+# Train command: python train.py --data voc.yaml
+# Default dataset location is next to /yolov5:
+#   /parent_folder
+#     /VOC
+#     /yolov5
+
+
+
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+# train: /home/tao/disk1/Dataset/WiderFace/ForYolo7Face/train
+# val: /home/tao/disk1/Dataset/WiderFace/ForYolo7Face/val  # 16551 images
+
+# train: /home/tao/disk1/Dataset/Project/LPR/origindata/orisizeData/AnyplateData/platedata_yolo_train/AnyPlateDataBatch01
+# val: /home/tao/disk1/Dataset/Project/LPR/origindata/orisizeData/AnyplateData/platedata_yolo_train/AnyPlateDataTest1k
+
+# train: [
+# /home/tao/disk1/Dataset/Project/LPR/origindata/orisizeData/AnyplateData/platedata_yolo_train/AnyPlateDataBatch01,
+# /home/tao/disk1/Dataset/Project/LPR/origindata/orisizeData/AnyplateData/platedata_yolo_train/AnyPlateDataBatch00,
+# /disks/disk1/Dataset/Project/LPR/origindata/orisizeData/AnyplateData/platedata_yolo_train/AnyPlateDataBatch01-scaleaug]
+
+
+train: [
+/home/tao/disk1/Dataset/Project/LPR/origindata/orisizeData/AnyplateData/platedata_yolo_train/AnyPlateDataBatch01,
+/home/tao/disk1/Dataset/Project/LPR/origindata/orisizeData/AnyplateData/platedata_yolo_train/AnyPlateDataBatch00,
+/disks/disk1/Dataset/Project/LPR/origindata/orisizeData/AnyplateData/platedata_yolo_train/AnyPlateDataBatch01-scaleaug
+]
+
+val: /home/tao/disk1/Dataset/Project/LPR/origindata/orisizeData/AnyplateData/platedata_yolo_train/AnyPlateDataTest1k
+
+
+# train: data/widerface/train  # 16551 images
+# val: data/widerface/val  # 16551 images
+#val: /ssd_1t/derron/yolov5-face/data/widerface/train/  # 4952 images
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'face']
+ 

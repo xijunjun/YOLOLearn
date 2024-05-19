@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_743
+3
+684 148 126 197 0.839
+366 9 100 141 0.058
+0 68 236 500 0.019

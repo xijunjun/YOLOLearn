@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_666
+2
+203 200 381 511 0.787
+530 222 346 503 0.773

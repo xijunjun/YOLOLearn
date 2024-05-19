@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_310
+2
+626 166 83 120 0.741
+657 169 75 113 0.022

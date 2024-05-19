@@ -1,0 +1,5 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_205
+3
+508 224 91 114 0.826
+297 157 40 60 0.137
+310 163 39 53 0.011

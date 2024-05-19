@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_504
+3
+697 139 97 113 0.837
+173 214 77 102 0.809
+431 97 100 125 0.791

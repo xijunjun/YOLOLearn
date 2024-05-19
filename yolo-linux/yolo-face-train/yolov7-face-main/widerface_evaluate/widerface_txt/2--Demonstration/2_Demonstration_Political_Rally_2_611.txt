@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_611
+2
+177 166 145 188 0.832
+6 966 65 58 0.013

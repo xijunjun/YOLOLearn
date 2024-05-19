@@ -1,0 +1,3 @@
+25_Soldier_Patrol_Soldier_Patrol_25_16
+1
+266 143 82 107 0.837
